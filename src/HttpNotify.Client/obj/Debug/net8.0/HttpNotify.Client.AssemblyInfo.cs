@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpNotify.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e54daf721a2a9ec28cb170ed09a86601e2a24dc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e39420cce15d9698d6ad76d65c103ccfff3e0326")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpNotify.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpNotify.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
